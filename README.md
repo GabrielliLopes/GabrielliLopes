@@ -18,3 +18,18 @@
   </a>
 </div>
 
+<br>
+<br/>
+
+<div>
+  <img
+    align="left"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielliLopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</div>
+
+
+
+
