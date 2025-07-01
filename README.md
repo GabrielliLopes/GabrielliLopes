@@ -1,9 +1,5 @@
 ## Olá! Eu sou a Gabrielli Lopes👋
 
-- 🔭 Quero trabalhar com Front-End
-- 🌱 HTML5, CSS3 e JavaScript 
-- 😄 Pronouns: Ela/Dela
-  
 <div>
 <a href="https://github.com/GabrielliLopes">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielliLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"[>
